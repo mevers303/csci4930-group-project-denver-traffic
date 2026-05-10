@@ -1,4 +1,4 @@
 .venv/
 .ipynb_checkpoints/
 data/
-model.pkl
+pickle_jar/
