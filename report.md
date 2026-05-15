@@ -53,3 +53,8 @@ Because the one-hot encoded data has `976` features it would seem that reducing 
 
 ## The search for a model
 There were many types of models explored.  We expected the best performance from models based on Decision Trees due to the categorical data.  We did a grid search with the following models:
+RandomForrest
+ExtraTrees
+LogisticRegression
+LinearSVC
+LightGBM (a model developed by Microsoft)
