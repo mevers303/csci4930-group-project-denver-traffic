@@ -1,3 +1,6 @@
+## Data source
+[https://opendata-geospatialdenver.hub.arcgis.com/datasets/db00bd99ea534d8987e0913a191ebe19_325/explore?location=39.759262%2C-104.902794%2C9](https://opendata-geospatialdenver.hub.arcgis.com/datasets/db00bd99ea534d8987e0913a191ebe19_325/explore?location=39.759262%2C-104.902794%2C9)
+
 ## Data cleaning
 This was a relatively large dataset that strictly contains categorical data.  Some of the columns such as `precinct_id` and `neighborhood_id` initially appeared to be numerical, but really those were numerical codes that have no meaning in terms of magnitude.
 
