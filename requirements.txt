@@ -4,3 +4,5 @@ pandas
 pickle
 scikit-learn
 lightgbm
+shap
+matplotlib

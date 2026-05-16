@@ -26,3 +26,4 @@ The `evaluate.ipynb` contains the meaninful results and evaluation of models.
 - `data/`: Contains the raw open data CSV of Denver traffic accidents, alongside the cleaned and pre-processed version used for training.
 - `pickle_jar/`: Stores serialized Python objects like computationally expensive trained models and grid search results to save time on subsequent runs.
 - `eda.ipynb`: Explore all the columns and all the categories.
+- `report.md`: Written report
